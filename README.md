@@ -6,7 +6,7 @@ Some of this code was written by AI.
 
 test audio from https://github.com/voxserv/audio_quality_testing_samples/blob/master/mono_44100/127389__acclivity__thetimehascome.wav
 
-install command: chmod +x install.sh && chmod +x delete.sh && ./install.sh
+install command (when in root filepath of the repository): chmod +x install.sh && chmod +x delete.sh && ./install.sh
 
 example command: AudioModTools ./data/test.wav ./output/output.wav -r 16000
 
