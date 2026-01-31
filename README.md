@@ -8,5 +8,7 @@ test audio from https://github.com/voxserv/audio_quality_testing_samples/blob/ma
 
 install command (when in root filepath of the repository): chmod +x install.sh && chmod +x delete.sh && ./install.sh
 
-example command: AudioModTools ./data/test.wav ./output/output.wav -r 16000
+example command: AudioModTools ./data/test.wav ./output/output2.wav -r 16000 -g 2.0
+help: AudioModTools --help
+
 
