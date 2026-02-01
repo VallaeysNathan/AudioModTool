@@ -9,7 +9,7 @@ import uuid
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Resample a WAV file using polyphase FIR filtering"
+        description="Manipulate a WAV file"
     )
 
     parser.add_argument(
